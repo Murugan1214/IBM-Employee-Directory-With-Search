@@ -15,7 +15,7 @@ An interactive Employee Directory Web Application that allows users to view, sea
 
 Clone the repository:
 
-git clone 
+git clone :https://github.com/Murugan1214/IBM-Employee-Directory-With-Search.git
 
 Open in VS Code or any IDE.
 
